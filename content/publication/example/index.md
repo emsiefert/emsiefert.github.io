@@ -1,5 +1,5 @@
 ---
-title: 'Directing attention shapes learning in adults but not children'
+title: 'Memory reactivation during sleep does not act holisitically on object memory'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
