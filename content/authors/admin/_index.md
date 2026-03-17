@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Marlie Tandoc
+title: Liz Siefert
 
 # Full name (for SEO)
-first_name: Marlie
-last_name: Tandoc
+first_name: Elizabeth
+last_name: Siefert
 
 # Is this the primary user of the site?
 superuser: true
@@ -29,15 +29,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Psychology
+    - course: PhD in Neuroscience
       institution: University of Pennsylvania
-      year: Spring 2025
-    - course: MA in Psychology
-      institution: University of Pennsylvania
-      year: 2020
-    - course: BSc in Psychology, Book & Media Studies
-      institution: University of Toronto
-      year: 2018
+      year: estimated spring/summer 2027
+    - course: Sc.B. in Cognitive Neuroscience
+      institution: Brown University
+      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -49,19 +46,19 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/MarlieTandoc
+    link: https://X.com/lizsiefert
     label: Follow me on Twitter
     display:
       header: false
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=Ui3NuzwAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=VgJE9X0AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/marlietandoc
+    link: https://github.com/emsiefert
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/marlietandoc/
+    link: https://www.linkedin.com/in/elizabeth-siefert-b59954109/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
