@@ -1,0 +1,7 @@
+name = "custom"
+light = true
+primary = "#3a6b35"
+menu_primary = "#3a6b35"
+menu_text = "#fff"
+menu_text_active = "#fff"
+menu_title = "#fff"
