@@ -75,7 +75,7 @@ email: ''
 highlight_name: true
 ---
 
-I am currently a PhD Student at UPenn in the {{< staticref "https://www.schapirolab.org/home" "newtab" >}}Schapiro {{< /staticref >}} and Foster Labs. 
+I am currently a PhD Student at UPenn in the {{< staticref "https://www.schapirolab.org" "newtab" >}}Schapiro {{< /staticref >}} and {{< staticref "https://www.fosterneurolab.com" "newtab" >}}Foster {{< /staticref >}} Labs. I am interested in how our memories change and morph overtime, and the role of sleep in these changes.
 
 
 
