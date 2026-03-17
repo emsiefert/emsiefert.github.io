@@ -8,7 +8,7 @@ name = "custom"
   menu_title = "#fff"
 
 [dark]
-  primary = "#3a6b35"
+  primary = "#7dc87a"
   menu_primary = "#3a6b35"
   menu_text = "#fff"
   menu_text_active = "#fff"
