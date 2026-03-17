@@ -7,15 +7,15 @@ main:
   - name: About
     url: '#about'
     weight: 10
-  - name: Research
-    url: '#projects'
+  - name: CV
+    url: uploads/resume.pdf
     weight: 30
-  - name: Publications
-    url: '#featured'
-    weight: 50
-  - name: Personal Projects
-    url: '#fun_projects'
-    weight: 60
+  #- name: Publications
+  #  url: '#featured'
+  #  weight: 50
+ # - name: Personal Projects
+ #   url: '#fun_projects'
+ #   weight: 60
   - name: Contact
     url: '#contact'
     weight: 70
