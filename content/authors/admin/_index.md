@@ -53,7 +53,7 @@ social:
     label: Follow me on Twitter
     display:
       header: false
-  - icon:bluesky
+  - icon: bluesky
     icon_pack: custom
     url: https://bsky.app/profile/lizsiefert.bsky.social
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
