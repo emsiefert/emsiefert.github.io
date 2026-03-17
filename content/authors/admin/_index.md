@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Liz Siefert
+title: Elizabeth M. Siefert
 
 # Full name (for SEO)
 first_name: Elizabeth
