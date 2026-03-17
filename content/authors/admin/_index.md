@@ -54,7 +54,7 @@ social:
     display:
       header: false
   - icon: bluesky
-    icon_pack: ai
+    icon_pack: custom
     url: https://bsky.app/profile/lizsiefert.bsky.social
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
