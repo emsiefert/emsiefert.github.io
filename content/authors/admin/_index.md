@@ -6,6 +6,8 @@ title: Liz Siefert
 first_name: Elizabeth
 last_name: Siefert
 
+avatar_filename: avatar.jpg
+
 # Is this the primary user of the site?
 superuser: true
 
@@ -21,10 +23,10 @@ organizations:
 bio: ''
 
 # Interests to show in About widget
-interests:
-  - Quantitative and qualitative methods
-  - Data analysis, visualization, statistics
-  - Understanding how people/users think
+#interests:
+#  - Quantitative and qualitative methods
+#  - Data analysis, visualization, statistics
+#  - Understanding how people/users think
 
 # Education to show in About widget
 education:
