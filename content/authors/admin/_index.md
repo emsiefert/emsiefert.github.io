@@ -10,7 +10,7 @@ last_name: Siefert
 superuser: true
 
 # Role/position/tagline
-role: PhD candidate,         researcher, psychologist, neuroscientist
+role: PhD candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -43,7 +43,8 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    icon: "envelope"
+    link: "mailto:sieferte@pennmedicine.upenn.edu"
   - icon: twitter
     icon_pack: fab
     link: https://X.com/lizsiefert
