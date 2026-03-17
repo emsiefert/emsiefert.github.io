@@ -1,26 +1,24 @@
 ---
-title: 'Directing attention shapes learning in adults but not children'
+title: 'Pupil size tracks cue-trace interactions during episodic memory retrieval'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Sindhuja Uppuluri
-  - Jianing Mu
-  - Marlie C. Tandoc
-  - James W. Antony
-  - Anna C. Schapiro
+  - Mingjian He
+  - Elena K. Festa
+  - William C. Heindel
 
 # Author notes (optional)
 author_notes:
 
 
-date: '2024'
+date: '2023'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-06-12T00:00:00Z'
+publishDate: '2023-08-12T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,10 +27,10 @@ publishDate: '2024-06-12T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In The Journal of Neuroscience
+publication: In Psychophysiology
 publication_short:
 
-abstract: Memory reactivation during sleep is thought to facilitate memory consolidation. Most sleep reactivation research has examined how reactivation of specific facts, objects, and associations benefits their overall retention. However, our memories are not unitary, and not all features of a memory persist in tandem over time. Instead, our memories are transformed, with some features strengthened and others weakened. Does sleep reactivation drive memory transformation? We leveraged the Targeted Memory Reactivation technique in an object category learning paradigm to examine this question. Participants (20 female, 14 male) learned three categories of novel objects, where each object had unique, distinguishing features as well as features shared with other members of its category. We used a real-time EEG protocol to cue the reactivation of these objects during sleep at moments optimized to generate reactivation events. We found that reactivation improved memory for distinguishing features while worsening memory for shared features, suggesting a differentiation process. The results indicate that sleep reactivation does not act holistically on object memories, instead supporting a transformation where some features are enhanced over others.
+abstract: Our ability to remember past events requires not only storing enduring engrams or memory traces of these events, but also successfully reactivating these latent traces in response to appropriate cues at the time of retrieval—a process that has been termed ecphory. However, relatively little is known about the processes that facilitate the dynamic interactions between retrieval cues and stored memory traces that are critical for successful recognition and recollection. Recently, an intriguing link between pupil dilation and recognition memory has been identified, with studied items eliciting greater pupil dilation than unstudied items during retrieval. However, the processes contributing to this “pupillary old/new effect” remain unresolved, with current explanations suggesting that it reflects the strength of the underlying memory trace. Here, we explore the novel hypothesis that the pupillary old/new effect does not index memory strength alone, but rather reflects the facilitation of cue–trace interactions during episodic memory retrieval that may be supported by activity within the pupil-linked locus coeruleus-noradrenergic (LC-NA) arousal system. First, we show that the magnitude of pupil dilation is influenced by the degree of overlap between cue and trace information. Second, we find that the magnitude of pupil dilation reflects the amount of study contextual information reinstated during retrieval. These findings provide a novel framework for understanding the pupillary old/new effect, and identify a potential role for the LC-NA system in recognition memory retrieval.
 
 
 
@@ -48,13 +46,13 @@ featured: true
 # Custom links (uncomment lines below)
 links:
  - name: Paper
-   url: https://www.jneurosci.org/content/44/24/e0022242024
+   url: https://onlinelibrary.wiley.com/doi/abs/10.1111/psyp.14409
  #name: Data/Code 
  #url: https://osf.io/3k2g6/
- - name: This Week in the Journal
-   url: https://doi.org/10.1523/JNEUROSCI.twij.44.24.2024 
- - name: Brains in Briefs
-   url: https://www.upennglia.com/briefs/bib-memory-reactivation
+ # - name: This Week in the Journal
+ #  url: https://doi.org/10.1523/JNEUROSCI.twij.44.24.2024 
+ # - name: Brains in Briefs
+ #  url: https://www.upennglia.com/briefs/bib-memory-reactivation
 
 url_dataset: ''
 url_poster: ''
