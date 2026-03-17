@@ -6,9 +6,11 @@ title: 'Directing attention shapes learning in adults but not children'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Bharat Nadendla
-  - Theresa Pham
-  - Amy Finn
+  - Sindhuja Uppuluri
+  - Jianing Mu
+  - Marlie C. Tandoc
+  - James W. Antony
+  - Anna C. Schapiro
 
 # Author notes (optional)
 author_notes:
@@ -18,7 +20,7 @@ date: '2024'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-09-27T00:00:00Z'
+publishDate: '2024-06-12T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,15 +29,16 @@ publishDate: '2024-09-27T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In Psychological Science
+publication: In The Journal of Neuroscience
 publication_short:
 
-abstract: Children sometimes learn distracting information better than adults do, perhaps because of the development of selective attention. To understand this potential link, we ask how the learning of children (aged 7-9 years) and the learning of adults differ when information is the directed focus of attention versus when it is not. Participants viewed drawings of common objects and were told to attend to the drawings (Experiment 1, 42 children, 35 adults) or indicate when shapes (overlaid on the drawings) repeated (Experiment 2, 53 children, 60 adults). Afterward, participants identified fragments of these drawings as quickly as possible. Adults learned better than children when directed to attend to the drawings; however, when drawings were task irrelevant, children showed better learning than adults in the first half of the test. And although directing attention to the drawings improved learning in adults, children learned the drawings similarly across experiments regardless of whether the drawings were the focus of the task or entirely irrelevant.
+abstract: Memory reactivation during sleep is thought to facilitate memory consolidation. Most sleep reactivation research has examined how reactivation of specific facts, objects, and associations benefits their overall retention. However, our memories are not unitary, and not all features of a memory persist in tandem over time. Instead, our memories are transformed, with some features strengthened and others weakened. Does sleep reactivation drive memory transformation? We leveraged the Targeted Memory Reactivation technique in an object category learning paradigm to examine this question. Participants (20 female, 14 male) learned three categories of novel objects, where each object had unique, distinguishing features as well as features shared with other members of its category. We used a real-time EEG protocol to cue the reactivation of these objects during sleep at moments optimized to generate reactivation events. We found that reactivation improved memory for distinguishing features while worsening memory for shared features, suggesting a differentiation process. The results indicate that sleep reactivation does not act holistically on object memories, instead supporting a transformation where some features are enhanced over others.
 
 
 
 # Summary. An optional shortened abstract.
-summary: <strong>Why can kids seemingly learn so much without even trying? </strong> By comparing how children and adults learn in the lab, we discover a reason why this could be. We find that children and adults pay attention to and process information in very different ways. <strong> Children pay attention to their environments in a more holistic and open-minded fashion</strong>, thus taking in more information from the worlds around them, kind of like a sponge. On the other hand, adults selectively attend to only one source of information and ignore and filter out everything else. While this can be beneficial for the task-at-hand, it does mean adults are processing and learning less from the environment. Together, this suggests that <strong> children learn so much because they are processing more information than adults.</strong>
+summary: 
+#<strong>Why can kids seemingly learn so much without even trying? </strong> By comparing how children and adults learn in #the lab, #we discover a reason why this could be. We find that children and adults pay attention to and process information in very #different #ways. <strong> Children pay attention to their environments in a more holistic and open-minded fashion</strong>, thus #taking in #more information from the worlds around them, kind of like a sponge. On the other hand, adults selectively attend to only #one #source of information and ignore and filter out everything else. While this can be beneficial for the task-at-hand, it does mean #adults are processing and learning less from the environment. Together, this suggests that <strong> children learn so much because #they are processing more information than adults.</strong>
 
 tags: []
 
@@ -45,18 +48,14 @@ featured: true
 # Custom links (uncomment lines below)
 links:
  - name: Paper
-   url: https://pubmed.ncbi.nlm.nih.gov/39163348/
- - name: Data/Code 
-   url: https://osf.io/3k2g6/
- - name: APA News 
-   url: https://www.psychologicalscience.org/news/2024-sept-children-attention.html
- - name: University News 
-   url: https://www.utoronto.ca/news/children-learn-even-when-they-re-not-paying-attention-u-t-psychologists-find
- - name: Medical Xpress News 
-   url: https://medicalxpress.com/news/2025-01-children-theyre-paying-attention-psychologists.html
- - name: Talkshow Radio
-   url: https://www.iheart.com/podcast/962-the-vassy-kapelos-show-105884244/episode/talk-science-to-me-with-dan-215396089/
-   
+   url: https://www.jneurosci.org/content/44/24/e0022242024
+ #name: Data/Code 
+ #url: https://osf.io/3k2g6/
+ - name: This Week in the Journal
+   url: https://doi.org/10.1523/JNEUROSCI.twij.44.24.2024 
+ - name: Brains in Briefs
+   url: https://www.upennglia.com/briefs/bib-memory-reactivation
+
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -67,10 +66,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
+# image:
+#  caption: ''
+#  focal_point: ''
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
