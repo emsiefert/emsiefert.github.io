@@ -80,7 +80,7 @@ email: ''
 highlight_name: true
 ---
 
-I am currently a PhD Student at UPenn in the {{< staticref "https://www.schapirolab.org" "newtab" >}}Schapiro {{< /staticref >}} and {{< staticref "https://www.fosterneurolab.com" "newtab" >}}Foster {{< /staticref >}} Labs. I am interested in how our memories change and morph overtime, and the role of sleep in these changes.
+I am a Neuroscience PhD Student at UPenn in the {{< staticref "https://www.schapirolab.org" "newtab" >}}Schapiro {{< /staticref >}} and {{< staticref "https://www.fosterneurolab.com" "newtab" >}}Foster {{< /staticref >}} Labs. I am interested in how memories are transformed over time and the role of sleep in driving these changes. My current projects examine how memory reactivation during sleep shapes our memories, and how arousal state more generally impacts activity in the hippocampus. To investigate these questions, I use a combination of behavioral, physiological (heart rate, pupillometry), and electrophysiological (EEG, iEEG) methods. I also have a growing interest in how neuroscience intersects with society and the law. 
 
 
 
