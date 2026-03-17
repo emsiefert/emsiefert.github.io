@@ -17,7 +17,7 @@ content:
 
 
   # Contact details (edit or remove options as required)
-  email: tandoc@sas.upenn.edu
+  email: sieferte@pennmedicine.upenn.edu
 
 
 design:
