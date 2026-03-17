@@ -1,5 +1,7 @@
 ---
 # An instance of the Portfolio widget.
+
+active: false
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
 

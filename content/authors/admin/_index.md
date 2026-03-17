@@ -6,6 +6,8 @@ title: Liz Siefert
 first_name: Elizabeth
 last_name: Siefert
 
+avatar_filename: avatar.jpg
+
 # Is this the primary user of the site?
 superuser: true
 
@@ -21,10 +23,10 @@ organizations:
 bio: ''
 
 # Interests to show in About widget
-interests:
-  - Quantitative and qualitative methods
-  - Data analysis, visualization, statistics
-  - Understanding how people/users think
+#interests:
+#  - Quantitative and qualitative methods
+#  - Data analysis, visualization, statistics
+#  - Understanding how people/users think
 
 # Education to show in About widget
 education:
@@ -75,7 +77,7 @@ email: ''
 highlight_name: true
 ---
 
-I am currently a PhD Student at UPenn in the {{< staticref "https://www.schapirolab.org/home" "newtab" >}}Schapiro {{< /staticref >}} and Foster Labs. 
+I am currently a PhD Student at UPenn in the {{< staticref "https://www.schapirolab.org" "newtab" >}}Schapiro {{< /staticref >}} and {{< staticref "https://www.fosterneurolab.com" "newtab" >}}Foster {{< /staticref >}} Labs. I am interested in how our memories change and morph overtime, and the role of sleep in these changes.
 
 
 
