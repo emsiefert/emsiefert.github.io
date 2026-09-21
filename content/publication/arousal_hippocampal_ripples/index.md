@@ -29,7 +29,7 @@ publishDate: '2026-09-21T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: bioRxiv (preprint, under review)
+publication: bioRxiv (preprint, in revision)
 publication_short:
 
 abstract: "Hippocampal ripples are transient, high-frequency oscillations linked to memory replay and consolidation. Ripples are well-characterized in rodents to occur during periods of behavioral inactivity (i.e., sleep, rest), viewed as “offline” states where replay can emerge with limited sensory interference. However, human studies have increasingly observed ripples during active tasks, raising the questions of whether ripple genesis and function have been misunderstood or whether there are fundamental species differences. We propose that low arousal states—predominant during offline sleep and transient during wake—may constitute a common mechanism of ripple genesis that reconciles these observations. We recorded directly from human hippocampus during sleep and wake, measuring arousal via sleep staging, pupillometry, and heart rate. Ripple occurrence consistently tracked low arousal: rates were maximal in NREM sleep, small-pupil wake states, and slow heart rate periods across sleep and wake. This modulation was stronger in anterior than posterior hippocampus and was hippocampus specific: ripple-like activity outside the hippocampus showed an opposite modulation, increasing with high arousal. These results resolve apparent species differences and provide a unifying view of offline periods as arousal dips that can emerge across behavioral states, including transiently during active wake, suggesting hippocampal ripples, and memory consolidation, occur continuously intermixed with cognition."
