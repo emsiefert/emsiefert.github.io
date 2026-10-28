@@ -34,4 +34,8 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 3
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    # Small bottom padding so the CV note (cv_note.md) sits close below.
+    padding: ['110px', '0', '20px', '0']
 ---
