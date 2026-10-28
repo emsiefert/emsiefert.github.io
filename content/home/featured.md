@@ -10,7 +10,7 @@ headless: true
 weight: 80
 
 title: Selected Publications
-subtitle: ''
+subtitle: 'For full publication list, see [CV](/uploads/Siefert_CV.pdf).'
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -35,5 +35,3 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
-
-For full publication list, see [CV](/uploads/Siefert_CV.pdf).
